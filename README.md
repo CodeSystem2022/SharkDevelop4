@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">🦈José Carmona <br>🦈Melisa Riera<br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo</p>
+<p align="center">🦈José Carmona <br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo</p>
 
 ###
 
@@ -34,7 +34,24 @@
   </tr>
   <tr>
     <td>Semana 2</td>
-    <td>undefined</td>
+    <td>Facundo Rojo</td>
   </tr>
+  <tr>
+    <td>Semana 3</td>
+    <td>Alejandra Carballeira</td>
+  </tr>
+  <tr>
+    <td>Semana 4</td>
+    <td>Lucas Gallo</td>
+  </tr>
+  <tr>
+    <td>Semana 5</td>
+    <td>Gabriel Valdéz</td>
+  </tr>
+  <tr>
+    <td>Semana 6</td>
+    <td>José Carmona</td>
+  </tr>
+  
 
 </table>
