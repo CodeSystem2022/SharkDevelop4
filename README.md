@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Tercer Semestre🧑🏻‍💻</h2>
+<h2 align="left">Cuarto Semestre🧑🏻‍💻</h2>
 
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">🦈José Carmona <br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo</p>
+<p align="center">🦈José Carmona <br>🦈Alejandra Carballeira<br>🦈Facundo Rojo<br>🦈Gabriel Valdés <br>🦈Lucas Gallo<br>🦈Magali Cardozo<br>🦈Melisa Riera</p>
 
 ###
 
