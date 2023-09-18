@@ -1,27 +1,37 @@
 package utn.estudiantes.servicio;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import utn.estudiantes.modelo.Estudiante;
+import utn.estudiantes.repositorio.EstudianteRepositorio;
 
 import java.util.List;
 
 public class EstudianteServicio implements IEstudianteServicio{
+    @Autowired
+    private EstudianteRepositorio estudianteRepositorio;
+
     @Override
     public List<Estudiante> listarEstudiantes() {
-        return null;
+        List<Estudiante> estudiantes = estudianteRepositorio.findAll();
+
+        return estudiantes;
     }
 
     @Override
-    public Estudiante obtenerEstudiante(Long id) {
-        return null;
+    public Estudiante obtenerEstudiante(Integer idEstudiante) {
+        Estudiante estudiante = estudianteRepositorio.findById(idEstudiante).orElse(null);
+        return estudiante;
     }
 
     @Override
     public void guardarEstudiante(Estudiante estudiante) {
+        estudianteRepositorio.save(estudiante);
 
     }
 
     @Override
-    public void eliminarEstudiante(Long id) {
+    public void eliminarEstudiante(Estudiante estudiante) {
+        estudianteRepositorio.delete(estudiante);
 
     }
 }

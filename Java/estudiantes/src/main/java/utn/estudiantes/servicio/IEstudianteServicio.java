@@ -9,8 +9,8 @@ import java.util.List;
 public interface IEstudianteServicio {
     public List<Estudiante> listarEstudiantes();
 
-    public Estudiante obtenerEstudiante(Long id);
+    public Estudiante obtenerEstudiante(Integer id);
     public void guardarEstudiante(Estudiante estudiante);
-    public void eliminarEstudiante(Long id);
+    public void eliminarEstudiante(Estudiante estudiante);
 
 }
