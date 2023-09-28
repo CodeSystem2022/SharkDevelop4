@@ -5,20 +5,23 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @Entity
+@Data //GET Y SET
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-public class Estudiante {
+public class Estudiantes2022 {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer idEstudiante;
+    private Integer idEstudiantes2022;
     private String nombre;
     private String apellido;
+    private String telefono;
     private String email;
 
 
