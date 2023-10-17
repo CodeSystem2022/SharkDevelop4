@@ -52,6 +52,25 @@
     <td>Semana 6</td>
     <td>José Carmona</td>
   </tr>
+    <tr>
+    <td>Semana 7</td>
+    <td>Melisa Riera</td>
+  </tr>
+    <tr>
+    <td>Semana 8</td>
+    <td>Magali Cardozo</td>
+  </tr>
+    <tr>
+    <td>Semana 9</td>
+    <td>Facundo Rojo</td>
+  </tr>
+  <tr>
+    <td>Semana 10</td>
+    <td>Alejandra Carballeira</td>
+  </tr>
+  <tr>
+    <td>Semana 11</td>
+    <td>Lucas Gallo</td>
+  </tr>
   
-
 </table>
