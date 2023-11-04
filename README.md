@@ -72,5 +72,6 @@
     <td>Semana 11</td>
     <td>Lucas Gallo</td>
   </tr>
-  
+    <td>Semana 12</td>
+    <td>José Carmona</td>
 </table>
